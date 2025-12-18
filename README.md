@@ -15,6 +15,7 @@ Me apasiona el punto medio entre la estética visual y la ingeniería de softwar
 ![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 🌱 Actualmente estoy profundizando en **Angular** y TypeScript.
 🔭 Trabajando en proyectos de diseño responsivo usando metodologías "Mobile First" con Polypane.
 
