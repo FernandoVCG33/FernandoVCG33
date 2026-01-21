@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1 align="center">Hola, soy Fernando 👋</h1>
   <h3 align="center">Diseñador Digital & Frontend Developer</h3>
@@ -63,10 +62,10 @@ Mi entorno de desarrollo está optimizado para la productividad y el diseño res
 
 <div align="center">
   <br>
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/fernando-vidal-catacora-gonzales-151739361/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/fernando_vcg_3">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
