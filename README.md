@@ -3,7 +3,7 @@
   <h3 align="center">Diseñador Digital & Frontend Developer</h3>
   
   <p align="center">
-    <i>"Transformando píxeles en código limpio y experiencias funcionales."</i>
+    <i>"De la idea a la realidad."</i>
   </p>
 
   <a href="https://git.io/typing-svg">
