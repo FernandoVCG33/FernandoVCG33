@@ -19,7 +19,7 @@
 
 > **"Hay herramientas para todo."** 🔧
 >
-> Creo firmemente que para cada problema existe una solución técnica adecuada. Mi flujo de trabajo combina la creatividad del diseño con la potencia de herramientas modernas de desarrollo.
+> Creo firmemente que para cada problema existe una solución técnica adecuada ya que una persona muy especial para mi me dio ese sabio consejo y pienso creer en ello.
 
 ---
 
