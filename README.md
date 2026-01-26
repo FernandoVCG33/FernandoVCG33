@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠 Tech Stack & Arsenal
+### Tech Stack & Arsenal
 
 Mi entorno de desarrollo está optimizado para la productividad y el diseño responsivo:
 
