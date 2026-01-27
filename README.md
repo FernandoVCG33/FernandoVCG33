@@ -17,7 +17,7 @@
 
 🎓 Soy estudiante de **Diseño Digital**, apasionado por el punto medio entre la estética visual y la ingeniería de software. No solo diseño interfaces; las construyo para que sean escalables, responsivas y eficientes.
 
-> **"Hay herramientas para todo."** 🔧
+> **"Hay herramientas para todo."** 
 >
 > Creo firmemente que para cada problema existe una solución técnica adecuada ya que una persona muy especial para mi me dio ese sabio consejo y pienso creer en ello.
 
