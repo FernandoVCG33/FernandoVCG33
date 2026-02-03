@@ -53,18 +53,3 @@ Mi entorno de desarrollo está optimizado para la productividad y el diseño res
 * 🧠 **Arquitectura Limpia:** Profundizando en patrones de diseño y optimización de código en Angular.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoVCG33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVCG33&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/fernando-vidal-catacora-gonzales-151739361/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/fernando_vcg_3">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
