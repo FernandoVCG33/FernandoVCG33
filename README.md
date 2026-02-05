@@ -15,7 +15,7 @@
 
 ### Sobre mí
 
-🎓 Soy estudiante de **Diseño Digital**, apasionado por el punto medio entre la estética visual y la ingeniería de software. No solo diseño interfaces; las construyo para que sean escalables, responsivas y eficientes.
+Soy estudiante de **Diseño Digital**, apasionado por el punto medio entre la estética visual y la ingeniería de software. No solo diseño interfaces; las construyo para que sean escalables, responsivas y eficientes.
 
 > **"Hay herramientas para todo."** 
 >
