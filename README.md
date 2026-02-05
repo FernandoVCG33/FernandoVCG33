@@ -49,6 +49,6 @@ Mi entorno de desarrollo está optimizado para la productividad y el diseño res
 ### Actualmente aprendiendo
 * 📱 **Desarrollo Móvil Híbrido:** Creando aplicaciones nativas con **Ionic 8** y **Capacitor**.
 * 🗺️ **Integraciones Complejas:** Implementando sistemas de mapas interactivos y geolocalización.
-* 🧠 **Arquitectura Limpia:** Profundizando en patrones de diseño y optimización de código en Angular.
+* 🧠 **Arquitectura Limpia:** Profundizando en patrones de diseño y optimización de código en Angular
 
 ---
