@@ -38,7 +38,7 @@ Mi entorno de desarrollo está optimizado para la productividad y el diseño res
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-#### **Herramientas de Desarrollo (My Power Toys)**
+#### **Herramientas de Desarrollo**
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Polypane](https://img.shields.io/badge/Polypane-blue?style=for-the-badge&logo=google-chrome&logoColor=white)
