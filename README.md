@@ -19,7 +19,7 @@ Soy estudiante de **Diseño Digital**, apasionado por el punto medio entre la es
 
 > **"Hay herramientas para todo."** 
 >
-> Creo firmemente que para cada problema existe una solución técnica adecuada ya que una persona muy especial para mi me dio ese sabio consejo y pienso creer en ello.
+> Creo firmemente que para cada problema existe una solución técnica adecuada ya que una persona muy especial para mi me dio ese sabio consejo y pienso creer en ello
 
 ---
 
