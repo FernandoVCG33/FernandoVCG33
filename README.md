@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Fernando </h1>
-  <h3 align="center">Diseñador Digital y desarrollador frontend</h3>
+  <h3 align="center">Diseñador Digital y desarrollador frontend </h3>
   
   <p align="center">
     <i>"Del prototipo a la realidad"</i>
