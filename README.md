@@ -1,53 +1,45 @@
 <div align="center">
-  <h1 align="center">Hola, soy Fernando </h1>
-  <h3 align="center">Diseñador Digital y desarrollador frontend</h3>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=28C7FA&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Fernando;Diseñador+Digital;Frontend+Developer;Angular+%26+Ionic+Enthusiast" alt="Typing SVG" />
+
   <p align="center">
-    <i>"Del prototipo a la realidad"</i>
+    <i>"Transformando prototipos en realidades digitales escalables."</i>
   </p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28C7FA&center=true&vCenter=true&width=435&lines=Angular+Enthusiast;Digital+Designer;Ionic+%2B+Mobile+Learner;Bolivia" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Bolivia-007A33?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación">
+    <img src="https://img.shields.io/github/followers/tu-usuario?label=Followers&style=flat-square&color=28C7FA" alt="Followers">
+  </p>
 </div>
 
 ---
 
-### Sobre mí
+### ⚡ Sobre mí
 
-Soy estudiante de **Diseño Digital**, apasionado por el punto medio entre la estética visual y la ingeniería de software. No solo diseño interfaces; las construyo para que sean escalables, responsivas y eficientes.
+Soy estudiante de **Diseño Digital**, enfocado en el punto de encuentro entre la estética visual y la ingeniería de software. Mi objetivo no es solo diseñar interfaces, sino construirlas para que sean **responsivas, eficientes y centradas en el usuario.**
 
-> **"Hay herramientas para todo "** 
->
-> Creo firmemente que para cada problema existe una solución técnica adecuada ya que una persona muy especial para mi me dio ese sabio consejo y pienso creer en ello
-
----
-
-### Tech Stack & Arsenal
-
-Mi entorno de desarrollo está optimizado para la productividad y el diseño responsivo:
-
-#### **Lenguajes**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### **Frameworks**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
-#### **Herramientas de Desarrollo**
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Polypane](https://img.shields.io/badge/Polypane-blue?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+> [!TIP]
+> **"Hay herramientas para todo"** > Creo firmemente que para cada problema existe una solución técnica adecuada. Este mantra guía mi aprendizaje diario y mi forma de abordar el desarrollo.
 
 ---
 
-### Actualmente aprendiendo
-*  **Desarrollo Móvil Híbrido:** Creando aplicaciones nativas con **Ionic 8**
-*  **Integraciones Complejas:** Implementando sistemas de mapas interactivos y geolocalización.
-*  **Arquitectura Limpia:** Profundizando en patrones de diseño y optimización de código en Angular.
+### 🛠 Tech Stack & Arsenal
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frameworks** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |
+| **Herramientas** | ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Polypane](https://img.shields.io/badge/Polypane-blue?style=for-the-badge&logo=google-chrome&logoColor=white) |
+
 ---
+
+### 🚀 Actualmente enfocado en...
+
+* 📱 **Desarrollo Híbrido:** Perfeccionando aplicaciones móviles nativas con **Ionic 8**.
+* 🗺 **Geolocalización:** Implementando sistemas complejos de mapas interactivos.
+* 🏗 **Arquitectura Limpia:** Profundizando en patrones de diseño y optimización para Angular.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
