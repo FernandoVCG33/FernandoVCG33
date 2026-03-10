@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=28C7FA&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Fernando;Diseñador+Digital;Frontend+Developer;Angular+%26+Ionic+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
-    <i>"Transformando prototipos en realidades digitales escalables."</i>
+    <i>"Transformando prototipos en realidades digitales escalables"</i>
   </p>
 </div>
 
