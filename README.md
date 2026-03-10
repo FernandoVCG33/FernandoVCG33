@@ -4,11 +4,6 @@
   <p align="center">
     <i>"Transformando prototipos en realidades digitales escalables."</i>
   </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Bolivia-007A33?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación">
-    <img src="https://img.shields.io/github/followers/tu-usuario?label=Followers&style=flat-square&color=28C7FA" alt="Followers">
-  </p>
 </div>
 
 ---
