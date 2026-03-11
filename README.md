@@ -27,7 +27,7 @@ Soy estudiante de **Diseño Digital**, enfocado en el punto de encuentro entre l
 
 ---
 
-### 🚀 Actualmente enfocado en...
+###  Actualmente enfocado en...
 
 * 📱 **Desarrollo Híbrido:** Perfeccionando aplicaciones móviles nativas con **Ionic 8**.
 * 🗺 **Geolocalización:** Implementando sistemas complejos de mapas interactivos.
