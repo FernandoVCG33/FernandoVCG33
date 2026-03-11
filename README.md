@@ -13,7 +13,7 @@
 Soy estudiante de **Diseño Digital**, enfocado en el punto de encuentro entre la estética visual y la ingeniería de software. Mi objetivo no es solo diseñar interfaces, sino construirlas para que sean **responsivas, eficientes y centradas en el usuario.**
 
 > [!TIP]
-> **"Hay herramientas para todo"** > Creo firmemente que para cada problema existe una solución técnica adecuada. Este mantra guía mi aprendizaje diario y mi forma de abordar el desarrollo.
+> **"Hay herramientas para todo"** > Creo firmemente que para cada problema existe una solución técnica adecuada. Este mantra guía mi aprendizaje diario y mi forma de abordar el desarrollo
 
 ---
 
