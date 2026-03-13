@@ -35,6 +35,3 @@ Soy estudiante de **Diseño Digital**, enfocado en el punto de encuentro entre l
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
