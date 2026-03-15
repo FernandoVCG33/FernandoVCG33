@@ -17,7 +17,7 @@ Soy estudiante de **Diseño Digital**, enfocado en el punto de encuentro entre l
 
 ---
 
-### 🛠 Tech Stack & Arsenal
+###  Tech Stack & Arsenal
 
 | Categoría | Tecnologías |
 | :--- | :--- |
